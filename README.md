@@ -1,4 +1,4 @@
-# codealpha_tasks
+# codealpha_tasks to create Simple Network Sniffer
 
 This is a simple network packet sniffer built using Python and Scapy. It captures and displays a summary of network packets from the local interface. Designed to work on Windows systems.
 
